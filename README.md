@@ -1,2 +1,2 @@
-# mediatr-sample
+# Mediatr-Sample
 MediatR Sample
