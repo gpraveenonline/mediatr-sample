@@ -1,5 +1,5 @@
-# MediatR-Sample
-MediatR Example Application - Simple Implemenatation using .net Core 2.1
+# MediatR-Sample for CQRS and DDD Approach
+MediatR Example Application - Simple Implemenatation using .net Core 2.1 for CQRS and DDD Approaches.
 <div class="Box-body p-6">
       
 <p>Simple mediator implementation in .NET</p>
@@ -15,4 +15,7 @@ MediatR Example Application - Simple Implemenatation using .net Core 2.1
 </code></pre>
 <p>Either commands, from Package Manager Console or .NET Core CLI, will download and install MediatR and all required dependencies.</p>
 </article>
+
+<h1>MediatR - using in CQRS & Micro Services</h1>
+<img src="https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/microservice-ddd-cqrs-patterns/media/image22.png"/>
       </div>
